@@ -9,8 +9,8 @@ Descrição das aulas de web
       <h2> Na terceira aula de web, nós fizemos uma pratica para aprender a utilizar o google app Script, essa atividade foi bem de boa de se fazer, nessa atividade eu realmete não tive duvidas. <h2>
     <h2> Na quarta aula e web, ele nós ensinou a fazer um codigo de site de compras com produtos e quatidade dos produtos, nós usamos o google app Script para realizar ese site, confeso que ese foi um pouco mas complicado, mas nós utilizamos o elemnetos basico que aprendemos durante o ano. <h2>
     <h2> Na quinta aula de web, nós aprendemos a fazer uma interação do cliente com o servidor usando o codigo google.script.run, nessa aula a pratica que fizemos foi de medir a nota e o peso de um aluno, essa foi bem dificil, mas nessa eu também não tive duvidas<h2>
-     <h2> na sexta aula e web, aprenemos a fazer o site retornar os dados ao clinte, para isso nós utilizamos a função withSuccessHandler(), essa aula foi mais explicação, pois por falta de internet não deu para fazer a pratica, de inicio não entendi muito bem o que era para fazer, mas depois pegeui o assunto de boa <h2>
-       <h2> na setima aula de web, tivemos que fazer uma pratica para fixar o que aprendemos na ultima aula um deles foi o
+     <h2> 31/05/2023na sexta aula e web, aprenemos a fazer o site retornar os dados ao clinte, para isso nós utilizamos a função withSuccessHandler(), essa aula foi mais explicação, pois por falta de internet não deu para fazer a pratica, de inicio não entendi muito bem o que era para fazer, mas depois pegeui o assunto de boa <h2>
+       <h2>  01/06/2023 na setima aula de web, tivemos que fazer uma pratica para fixar o que aprendemos na ultima aula um deles foi o
          
          "google.script.run.withSuccessHandler(exibirMedia).calcularMedia(nota1, peso1, nota2, peso2);"
          
