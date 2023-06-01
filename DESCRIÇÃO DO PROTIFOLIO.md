@@ -14,7 +14,7 @@ Descrição das aulas de web
          
          "google.script.run.withSuccessHandler(exibirMedia).calcularMedia(nota1, peso1, nota2, peso2);"
          
-        <h2> esse coigo é responsavel por enviar as informações para serem processadas e depois exibir o resultado obtido. <h2>
+        esse coigo é responsavel por enviar as informações para serem processadas e depois exibir o resultado obtido.
       
    
   
