@@ -13,7 +13,8 @@ Descrição das aulas de web
        <h2> na setima aula de web, tivemos que fazer uma pratica para fixar o que aprendemos na ultima aula um deles foi o
          
          "google.script.run.withSuccessHandler(exibirMedia).calcularMedia(nota1, peso1, nota2, peso2);"
-         esse coigo é responsavel por enviar as informações para serem processadas e depois exibir o resultado obtido.
+         
+        <h2> esse coigo é responsavel por enviar as informações para serem processadas e depois exibir o resultado obtido. <h2>
       
    
   
