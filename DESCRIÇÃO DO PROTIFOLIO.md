@@ -16,5 +16,15 @@ Descrição das aulas de web
          
         esse codigo é responsavel por enviar as informações para serem processadas e depois exibir o resultado obtido.
       
-   <h2> 02/06/2023 na oitava aula de web, nós fizemos uma pratica para fixar como
+   <h2> 02/06/2023 na oitava aula de web, nós fizemos uma pratica para fixar como fazer o envios de dados, nessa aula nós fizemos uma pratica onde nós tivemos que criar um campo de login de usuario, onde nós tinhamos que colocar a senha e o e-mail certo, se desse errado o site iria dizer qual estava errado 
+     
+     if (email == "aluno@ceep.com" && senha == "alunoceep2023"){
+    return('login valido')
+     
+  }else{
+     
+     return ('login invalido')
+     
+  }
+    esse foi o codigo que utilizamos para dizer se o login estava certo ou não <h2>
   
