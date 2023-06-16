@@ -27,4 +27,12 @@ Descrição das aulas de web
      
   }
     esse foi o codigo que utilizamos para dizer se o login estava certo ou não <h2>
+    <h2> 14/06/2023 na nona aula de web, nós aprendemos e fizemos uma pratica sobre enviar as informações do cliente para o servidor utilizando o metodo do POST, foi bem facil fazer essa pratica, não tive nenhuma duvida, e um dos codigos que nós utilizamos foi <h2>
+   
+    function doPost(e){
+  Logger.log(e.parameter.msg)
+  
+  Logger.log(e.parameter.sonome)
+  
+}
   
