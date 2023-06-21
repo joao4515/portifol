@@ -35,4 +35,12 @@ Descrição das aulas de web
   Logger.log(e.parameter.sonome)
   
 }
+
+
+
+
+<h2> Na decima aula de web, ele nós ensinou a fazer uma ligação do codigo html do appScript com uma planilha no google drive, eu faltei essa aula por questões de saude, mas meus colegas me explicaram de forma bem simplificada, mas na aula seguinte foi a mesma coisa, então eu aprendi e achei bem facil ate e não tive muitos problemas </h2>
+<h2> Na decima-primeira aula de web, nós fizemos uma pratica onde passamos informaões do html para uma planilha e nessa planilha tinha as informaçõrs de um estudante como nome dos pais, nome do aluno. data de nascimento, etc, foi nessa aula one eu aprendi a como fazer a ligação do html com uma planilha do drive</h2>
+<h2> Na decima-segunda, ele passou uma lista de exercicios, na primeia questão era para nós fazermos uma</h2>
+
   
